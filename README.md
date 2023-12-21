@@ -2,7 +2,7 @@
 
 ## How the project came to be
 This code is the completion of the Special Interest Project for UWM Cloud Computing
-for Team Asteroid. The project has to main sections, a basic data pipeline that takes
+for Team Asteroid. The project has two main sections, a basic data pipeline that takes
 data from an API, puts it into S3, takes it out of S3, cleans it, and places it in
 a RDS. Secondly, a React web application which calls the database in order to populate
 an interface build on top of Google Maps API to populate where the EV charging stations
